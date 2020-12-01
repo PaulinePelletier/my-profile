@@ -1,0 +1,83 @@
+img {
+	height: 120px;
+	border-radius: 50%;
+}
+
+button {
+	background-color: #4A4E69;
+	border-radius: 10px;
+	color: #FFFF;
+	size: 10px
+}
+
+body {
+    background-color: #F2E9E4;
+    color: #22223B;
+    font-family: 'Futura Bk BT', serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+h1 {
+	font-family: Futura Hv BT;
+	color: ;
+}
+
+h2 {
+	font-family:Futura XBlkCnIt BT;
+	color: ;
+	padding:;
+}
+
+h3 {
+	font-family:Futura MdCn BT;
+	color:#4A4E69 ;
+	margin: 0px 0px 0px;
+}
+
+
+.Card1 {
+    background-color: #C9ADA7;
+    padding: 2px 20px 20px 20px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 40px;
+    margin: 20px 200px;
+    text-align: center;
+}
+
+.Card {
+    background-color: #C9ADA7;
+    padding: 20px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 30px;
+    margin: 20px 40px;
+    text-align: center;
+}
+
+ .Cardhob {
+    background-color: #C9ADA7;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 30px;
+    margin: 10px;
+    margin-left: 40px; 
+    text-align: center;
+}
+
+ .Cardskil {
+    background-color: #C9ADA7;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 30px;
+    margin: 10px;
+    margin-right: 40px;
+    text-align: center;
+}
+
+  #leftbox { 
+                float:left;  
+                width:44%;  
+            } 
+          
+            #rightbox{ 
+                float:right; 
+                width:44%; 
+            } 
